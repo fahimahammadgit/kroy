@@ -49,7 +49,7 @@ pyparsing==2.4.7          # via packaging
 python-dateutil==2.8.0    # via shuup
 pytz==2018.9              # via babel, django, django-timezone-field
 requests==2.21.0          # via shuup, sphinx
-shuup==2.1.8
+shuup==2.11.0
 six==1.12.0               # via bleach, django-filer, django-parler, keyrings-alt, packaging, python-dateutil, shuup, sphinx
 snowballstemmer==1.2.1    # via sphinx
 sphinx==1.5.6
